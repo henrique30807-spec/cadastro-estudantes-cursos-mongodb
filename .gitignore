@@ -1,0 +1,7 @@
+/vendor/
+.env
+.sessions/
+.runtime/
+*.log
+.DS_Store
+
